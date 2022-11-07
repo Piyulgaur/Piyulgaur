@@ -19,7 +19,6 @@
 <p align="center">
 <a href="https://twitter.com/@piyul_gaur_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@piyul_gaur_05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piyulgaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyul gaur" height="30" width="40" /></a>
-<a href="piyulgaur52@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="piyul gaur" height="35" width="45" /></a>
 </p>
 
 
