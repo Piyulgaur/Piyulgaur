@@ -10,8 +10,8 @@
 
 - 👨‍🎓 I'm a B.Tech CSE Student
 - 📚 Currently in my final year
-- 🤓 I’m currently working on **Blockchain**
-- 🤝 I’m Open for **Collaborations**
+- 🤓 currently learning **Blockchain**
+- 🤝 Open for **Collaborations**
 - ❤️ I love to code, sketch and procrastinate
 
 
